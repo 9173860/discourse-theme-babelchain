@@ -1,3 +1,7 @@
-.category-boxes .category-box .logo, .category-boxes-with-topics .category-box .logo {
-  height: 120px;
+.category-boxes, .category-boxes-with-topics {
+  .category-box {
+    .logo {
+      height: 120px;
+    }
+  }
 }
